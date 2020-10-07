@@ -1,4 +1,6 @@
 # Getting Started with Git
+Edit to demo git
+
 Congratulations! You have made the wise decision to utilize git as your source code control option. Use of git ensures that code is available, secure, and clear with respect changes that have occurred to the codebase over time. Git also allows you to 'branch' from the master version to test new features while maintaining a clear distinction between test and production versions of your code.
 
 Properly managed, git is robust and powerful, allowing teams to rapidly develop and collaborate on their products. However, it can have a steep learning curve. This document seeks to serve as a brief reference guide for those just getting started with git to understand how it is used to improve the developer's workflow.

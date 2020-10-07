@@ -1,5 +1,4 @@
 # Getting Started with Git
-Edit to demo git
 
 Congratulations! You have made the wise decision to utilize git as your source code control option. Use of git ensures that code is available, secure, and clear with respect changes that have occurred to the codebase over time. Git also allows you to 'branch' from the master version to test new features while maintaining a clear distinction between test and production versions of your code.
 
